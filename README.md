@@ -70,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/shiva00531/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0709-to-lower-case](https://github.com/shiva00531/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 <!---LeetCode Topics End-->
