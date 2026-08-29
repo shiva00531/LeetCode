@@ -78,4 +78,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/shiva00531/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/shiva00531/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
