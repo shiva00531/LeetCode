@@ -15,6 +15,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/shiva00531/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/shiva00531/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/shiva00531/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/shiva00531/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/shiva00531/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
