@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/shiva00531/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/shiva00531/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/shiva00531/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/shiva00531/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/shiva00531/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -83,4 +85,8 @@
 | [0176-second-highest-salary](https://github.com/shiva00531/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shiva00531/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/shiva00531/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/shiva00531/LeetCode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
