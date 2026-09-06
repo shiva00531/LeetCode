@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shiva00531/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/shiva00531/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/shiva00531/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/shiva00531/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -34,6 +35,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/shiva00531/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/shiva00531/LeetCode/tree/main/0189-rotate-array/) | Medium |
