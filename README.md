@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/shiva00531/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/shiva00531/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/shiva00531/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/shiva00531/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/shiva00531/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/shiva00531/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shiva00531/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/shiva00531/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/shiva00531/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/shiva00531/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/shiva00531/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## String
