@@ -51,6 +51,7 @@
 | [0069-sqrtx](https://github.com/shiva00531/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/shiva00531/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/shiva00531/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/shiva00531/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -85,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/shiva00531/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/shiva00531/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
@@ -163,4 +165,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/shiva00531/LeetCode/tree/main/0069-sqrtx/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
