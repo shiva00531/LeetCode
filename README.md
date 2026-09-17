@@ -33,6 +33,7 @@
 | [0704-binary-search](https://github.com/shiva00531/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/shiva00531/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/shiva00531/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shiva00531/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shiva00531/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -120,6 +121,7 @@
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/shiva00531/LeetCode/tree/main/0704-binary-search/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shiva00531/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shiva00531/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
