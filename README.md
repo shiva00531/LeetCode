@@ -30,6 +30,7 @@
 | [0283-move-zeroes](https://github.com/shiva00531/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/shiva00531/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/shiva00531/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/shiva00531/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/shiva00531/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/shiva00531/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -45,6 +46,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shiva00531/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shiva00531/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/shiva00531/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +175,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shiva00531/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
