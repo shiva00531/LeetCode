@@ -39,6 +39,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shiva00531/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shiva00531/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/shiva00531/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shiva00531/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -107,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/shiva00531/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shiva00531/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shiva00531/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shiva00531/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/shiva00531/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shiva00531/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
