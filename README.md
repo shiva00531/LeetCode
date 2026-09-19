@@ -38,6 +38,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shiva00531/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shiva00531/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shiva00531/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/shiva00531/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -131,6 +132,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shiva00531/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shiva00531/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shiva00531/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/shiva00531/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
