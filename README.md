@@ -25,6 +25,7 @@
 | [0162-find-peak-element](https://github.com/shiva00531/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/shiva00531/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/shiva00531/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/shiva00531/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/shiva00531/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/shiva00531/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -49,6 +50,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shiva00531/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shiva00531/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shiva00531/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/shiva00531/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shiva00531/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
@@ -81,6 +83,7 @@
 | [0075-sort-colors](https://github.com/shiva00531/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shiva00531/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/shiva00531/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/shiva00531/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Matrix
