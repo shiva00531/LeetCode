@@ -75,6 +75,7 @@
 | [0031-next-permutation](https://github.com/shiva00531/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/shiva00531/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/shiva00531/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/shiva00531/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/shiva00531/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/shiva00531/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/shiva00531/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/shiva00531/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0709-to-lower-case](https://github.com/shiva00531/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 ## Database
 | Problem Name | Difficulty |
