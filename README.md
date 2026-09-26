@@ -108,6 +108,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/shiva00531/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/shiva00531/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/shiva00531/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -153,6 +154,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/shiva00531/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/shiva00531/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0709-to-lower-case](https://github.com/shiva00531/LeetCode/tree/main/0709-to-lower-case/) | Easy |
@@ -216,5 +218,10 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/shiva00531/LeetCode/tree/main/0078-subsets/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
