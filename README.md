@@ -65,6 +65,7 @@
 | [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/shiva00531/LeetCode/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/shiva00531/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/shiva00531/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
@@ -137,6 +138,7 @@
 | [0162-find-peak-element](https://github.com/shiva00531/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/shiva00531/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/shiva00531/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/shiva00531/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/shiva00531/LeetCode/tree/main/0704-binary-search/) | Easy |
