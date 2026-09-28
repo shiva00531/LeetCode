@@ -43,6 +43,7 @@
 | [1539-kth-missing-positive-number](https://github.com/shiva00531/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shiva00531/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2562-find-the-array-concatenation-value](https://github.com/shiva00531/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@
 | [0283-move-zeroes](https://github.com/shiva00531/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/shiva00531/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2562-find-the-array-concatenation-value](https://github.com/shiva00531/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@
 | [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/shiva00531/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2562-find-the-array-concatenation-value](https://github.com/shiva00531/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
