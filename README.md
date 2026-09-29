@@ -161,6 +161,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0038-count-and-say](https://github.com/shiva00531/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/shiva00531/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/shiva00531/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/shiva00531/LeetCode/tree/main/0443-string-compression/) | Medium |
