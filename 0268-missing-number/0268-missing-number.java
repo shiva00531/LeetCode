@@ -1,11 +1,21 @@
 class Solution {
-    public int missingNumber(int[] arr) {
-        int n = arr.length;
-        int s1  = (n*(n+1))/2;
-        int s2 = 0;
-        for(int i = 0;i <n; i++){
-            s2+=arr[i];
+    public void swap(int i, int j, int[] nums){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+    public int missingNumber(int[] nums) {
+        int n = nums.length;
+        int i = 0;
+        while(i < n){
+            if(nums[i]==i || nums[i]==n) i++;
+            else{
+                swap(i, nums[i], nums);
+            }
         }
-        return (s1-s2);
+        for(i = 0; i < n; i++){
+            if(nums[i]!=i) return i;
+        }
+        return i;
     }
 }
