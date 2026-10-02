@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/shiva00531/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/shiva00531/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/shiva00531/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shiva00531/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/shiva00531/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shiva00531/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/shiva00531/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/shiva00531/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/shiva00531/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/shiva00531/LeetCode/tree/main/0169-majority-element/) | Easy |
