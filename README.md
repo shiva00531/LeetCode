@@ -93,6 +93,7 @@
 | [0443-string-compression](https://github.com/shiva00531/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/shiva00531/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/shiva00531/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Sorting
@@ -261,4 +262,5 @@
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
