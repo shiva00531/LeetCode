@@ -81,6 +81,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shiva00531/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shiva00531/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/shiva00531/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/shiva00531/LeetCode/tree/main/0031-next-permutation/) | Medium |
@@ -262,6 +263,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shiva00531/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
