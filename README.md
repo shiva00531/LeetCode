@@ -136,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/shiva00531/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shiva00531/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shiva00531/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -185,6 +186,7 @@
 | [0443-string-compression](https://github.com/shiva00531/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0709-to-lower-case](https://github.com/shiva00531/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shiva00531/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shiva00531/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,4 +274,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shiva00531/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
