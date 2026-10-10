@@ -48,6 +48,7 @@
 | [1539-kth-missing-positive-number](https://github.com/shiva00531/LeetCode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shiva00531/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/shiva00531/LeetCode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/shiva00531/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
@@ -124,6 +125,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/shiva00531/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/shiva00531/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/shiva00531/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [2326-spiral-matrix-iv](https://github.com/shiva00531/LeetCode/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +133,7 @@
 | [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/shiva00531/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/shiva00531/LeetCode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/shiva00531/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -284,6 +287,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/shiva00531/LeetCode/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
