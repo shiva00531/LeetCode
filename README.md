@@ -50,6 +50,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/shiva00531/LeetCode/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/shiva00531/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shiva00531/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shiva00531/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -293,4 +294,8 @@
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shiva00531/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shiva00531/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
