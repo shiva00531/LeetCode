@@ -209,6 +209,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shiva00531/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/shiva00531/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/shiva00531/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/shiva00531/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -281,6 +282,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shiva00531/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/shiva00531/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/shiva00531/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shiva00531/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shiva00531/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
