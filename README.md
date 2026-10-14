@@ -215,6 +215,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shiva00531/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/shiva00531/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0231-power-of-two](https://github.com/shiva00531/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/shiva00531/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/shiva00531/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -288,6 +289,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shiva00531/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shiva00531/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/shiva00531/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/shiva00531/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shiva00531/LeetCode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shiva00531/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
