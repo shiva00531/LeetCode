@@ -83,6 +83,7 @@
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/shiva00531/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/shiva00531/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0415-add-strings](https://github.com/shiva00531/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/shiva00531/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/shiva00531/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shiva00531/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -143,6 +144,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/shiva00531/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/shiva00531/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/shiva00531/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shiva00531/LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/shiva00531/LeetCode/tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -207,6 +209,7 @@
 | [0038-count-and-say](https://github.com/shiva00531/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/shiva00531/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/shiva00531/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0415-add-strings](https://github.com/shiva00531/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/shiva00531/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0709-to-lower-case](https://github.com/shiva00531/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0856-score-of-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
