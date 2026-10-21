@@ -323,6 +323,7 @@
 | [0328-odd-even-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/shiva00531/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0707-design-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0707-design-linked-list/) | Medium |
+| [0725-split-linked-list-in-parts](https://github.com/shiva00531/LeetCode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shiva00531/LeetCode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
