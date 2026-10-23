@@ -236,6 +236,7 @@
 | [0234-palindrome-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/shiva00531/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/shiva00531/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [2487-remove-nodes-from-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +334,7 @@
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shiva00531/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/shiva00531/LeetCode/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +343,7 @@
 | [0445-add-two-numbers-ii](https://github.com/shiva00531/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0856-score-of-parentheses](https://github.com/shiva00531/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shiva00531/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [2487-remove-nodes-from-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,4 +356,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/shiva00531/LeetCode/tree/main/0707-design-linked-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/shiva00531/LeetCode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
