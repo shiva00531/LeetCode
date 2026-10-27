@@ -82,6 +82,7 @@
 | [0189-rotate-array](https://github.com/shiva00531/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/shiva00531/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shiva00531/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/shiva00531/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/shiva00531/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/shiva00531/LeetCode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/shiva00531/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
