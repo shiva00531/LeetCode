@@ -229,6 +229,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/shiva00531/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/shiva00531/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/shiva00531/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0595-big-countries](https://github.com/shiva00531/LeetCode/tree/main/0595-big-countries/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
